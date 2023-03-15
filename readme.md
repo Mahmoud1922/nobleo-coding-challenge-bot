@@ -1,5 +1,5 @@
-# Bot Template: Rambo The Rando
+# Bot: This is Mahmoud's Bot
 
-This bot acts as an template for future bot submissions for the Nobleo Colour Battle Coding Challenge.
+It is based on Rambo the Rando
 
 Chooses a random location on the grid and charges towards it. Not to be underestimated.

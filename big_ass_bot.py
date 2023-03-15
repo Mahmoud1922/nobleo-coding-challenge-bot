@@ -8,10 +8,10 @@ class RamboTheRando:
         self.target = None
 
     def get_name(self):
-        return "Rambo The Rando"
+        return "Big Ass Bot"
 
     def get_contributor(self):
-        return "Nobleo"
+        return "Mahmoud"
 
     def determine_next_move(self, grid, enemies, game_info):
         # Chooses a random target location, and moves there.

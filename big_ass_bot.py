@@ -2,7 +2,7 @@ import random
 import numpy as np
 from ..bot_control import Move
 
-class RamboTheRando:
+class BigAssBot:
 
     def __init__(self):
         self.target = None

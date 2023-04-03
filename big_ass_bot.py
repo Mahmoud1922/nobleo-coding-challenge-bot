@@ -23,7 +23,7 @@ class BigAssBot:
         return scores
 
     def evaluate(self, grid, point, scores):
-        print(scores)
+        # print(scores)
         
         p1 = [np.max([point[0] - 2, 0]), np.max([point[1] - 2, 0])]
         p2 = [np.min([point[0] + 2, grid.shape[0] - 1]), np.min([point[1] + 2, grid.shape[0] - 1])]
